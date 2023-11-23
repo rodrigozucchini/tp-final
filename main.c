@@ -46,7 +46,7 @@ int main() {
                 printf("Saliendo del programa.\n");
                 break;
             default:
-                printf("Opcion no valida. Intente de nuevo.\n");
+                printf("Opcion no valida. Pruebe.\n");
         }
     } while (opcion != 3);
 
